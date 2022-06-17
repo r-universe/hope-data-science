@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "akc"]
+	path = akc
+	url = https://github.com/hope-data-science/akc
+	shallow = true
+	registered = true
+[submodule "tidyfst"]
+	path = tidyfst
+	url = https://github.com/hope-data-science/tidyfst
+	shallow = true
+	registered = true
+[submodule "tidyft"]
+	path = tidyft
+	url = https://github.com/hope-data-science/tidyft
+	shallow = true
+	registered = true
