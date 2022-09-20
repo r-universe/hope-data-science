@@ -7,6 +7,7 @@
 	path = akc
 	url = https://github.com/hope-data-science/akc
 	shallow = true
+	subdir = akc
 	registered = true
 [submodule "tidyfst"]
 	path = tidyfst
