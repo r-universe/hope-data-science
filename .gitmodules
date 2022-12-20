@@ -14,8 +14,3 @@
 	url = https://github.com/hope-data-science/tidyfst
 	shallow = true
 	registered = true
-[submodule "tidyft"]
-	path = tidyft
-	url = https://github.com/hope-data-science/tidyft
-	shallow = true
-	registered = true
