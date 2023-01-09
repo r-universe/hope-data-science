@@ -6,5 +6,9 @@
   {
     "package": "tidyfst",
     "oncran": true
+  },
+  {
+    "package": "tidyft",
+    "oncran": true
   }
 ]
