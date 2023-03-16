@@ -1,14 +1,11 @@
 [
   {
-    "package": "akc",
-    "oncran": true
+    "package": "akc"
   },
   {
-    "package": "tidyfst",
-    "oncran": true
+    "package": "tidyfst"
   },
   {
-    "package": "tidyft",
-    "oncran": true
+    "package": "tidyft"
   }
 ]
